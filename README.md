@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 PS：我永远喜欢伊蕾娜.jpg
 
-![](https://cdn.jsdelivr.net/gh/GamerNoTitle/file/85925985_p1.jpg)
+![](https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/file/85925985_p1.jpg)
