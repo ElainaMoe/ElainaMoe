@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-这里是[@GamerNoTitle](https://github.com/GamerNoTitle)的小号，没事玩玩的一个账号
-
-想了解更多，你可以访问[@GamerNoTitle](https://github.com/GamerNoTitle)的Github主页
-
-或者访问我的网站[https://bili33.top](https://bili33.top)
+[关于得知Github查封Action仓库的信息后我自行删除脚本的这档事 #2](https://github.com/GamerNoTitle/GamerNoTitle/discussions/2)
+---
 
 PS：我永远喜欢伊蕾娜.jpg
 
