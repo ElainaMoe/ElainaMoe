@@ -1,23 +1,9 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Haikido/Haikido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [关于得知Github查封Action仓库的信息后我自行删除脚本的这档事 #2](https://github.com/GamerNoTitle/GamerNoTitle/discussions/2)
 ---
 
 PS：我永远喜欢伊蕾娜.jpg
 
 <img src="https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/file/85925985_p1.jpg" width=50% height=50%></img>
+
+## Since 2022/04/10
+![](https://count.getloli.com/get/@ElainaMoe?theme=rule34)
